@@ -1,34 +1,34 @@
-🏡 House Price Prediction – README
+##🏡 House Price Prediction – README
 📌 Overview
 
 This project builds a machine learning model to predict house prices based on various property features.
 The workflow includes:
 
-Data loading & cleaning
+• Data loading & cleaning
 
-Exploratory Data Analysis (EDA)
+• Exploratory Data Analysis (EDA)
 
-Feature engineering
+• Feature engineering
 
-Model training & evaluation
+• Model training & evaluation
 
-Final prediction results
+• Final prediction results
 
-This notebook is ideal for learning how regression models work on real-world datasets.
+• This notebook is ideal for learning how regression models work on real-world datasets.
 
 🔧 Technologies Used
 
-Python 3
+• Python 3
 
-NumPy
+• NumPy
 
-Pandas
+• Pandas
 
-Matplotlib
+• Matplotlib
 
-Seaborn
+• Seaborn
 
-Scikit-learn
+• Scikit-learn
 
 📊 Dataset Description
 
